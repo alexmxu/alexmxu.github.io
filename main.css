@@ -1,0 +1,31 @@
+
+img {
+	max-width:40%;
+    height:auto;
+    float:left;
+    padding-right:100px;
+}
+
+.container {
+	padding-top: 8%;
+	padding-left: 8%;
+}
+
+.title {
+	font-family: 'Merriweather';
+	font-size: 64px;
+	padding-top: 4%;
+}
+
+.subtitle {
+	font-family: 'Merriweather';
+	padding-top: 2%;
+	padding-right: 22%;
+	font-size: 24px;
+}
+
+a {
+	color: #81cde4;
+	/* text-decoration: none; */
+	font-style: italic;
+}
